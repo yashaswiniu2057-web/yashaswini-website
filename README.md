@@ -107,7 +107,7 @@ footer {
 </header>
 
 <section class="about">
-    <h2>About Me</h2>
+    <h2>About</h2>
     <p>
         I am an MBA student, lecturer, and creative entrepreneur passionate about building 
         meaningful ideas that create impact. My journey combines business knowledge with 
