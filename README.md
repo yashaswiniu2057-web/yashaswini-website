@@ -146,9 +146,9 @@ footer {
 <section class="contact">
     <h2>Contact</h2>
     <p>Email: yashaswiniu2057@gmail.com</p>
-    <p>Instagram: YashaswiniU_</p>
-    <p>LinkedIn: Yashaswini.U</p>
-    <p>YouTube: Uncut Chaos</p>
+    <p>Instagram: https://www.instagram.com/_yashaswini_u_?igsh=MXRkOXV3ZHBnYWtrZw==</p>
+    <p>LinkedIn: https://www.linkedin.com/in/yashaswini-u-aa3943395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</p>
+    <p>YouTube: https://www.youtube.com/@Uncut_Chaos_with_Y</p>
 </section>
 
 <footer>
