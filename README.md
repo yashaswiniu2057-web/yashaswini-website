@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Yashaswini Umesh | Creative Entrepreneur</title>
+<title>Yashaswini U| Creative Entrepreneur</title>
 
 <style>
 body {
@@ -145,14 +145,22 @@ footer {
 
 <section class="contact">
     <h2>Contact</h2>
-    <p>Email: yashaswiniu2057@gmail.com</p>
-    <p>Instagram: https://www.instagram.com/_yashaswini_u_?igsh=MXRkOXV3ZHBnYWtrZw==</p>
-    <p>LinkedIn: https://www.linkedin.com/in/yashaswini-u-aa3943395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</p>
-    <p>YouTube: https://www.youtube.com/@Uncut_Chaos_with_Y</p>
+    <p>Email: 
+        yashaswiniu2057@gmail.com</p>
+  
+    <p>Instagram:          
+        https://www.instagram.com/_yashaswini_u_?igsh=MXRkOXV3ZHBnYWtrZw==</p>
+        https://www.instagram.com/vinod_khadka_?igsh=MTdwam9nbHY3anpxMg==</p>
+    <p>LinkedIn:         
+        https://www.linkedin.com/in/yashaswini-u-aa3943395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</p>
+  
+    <p>YouTube:          
+        https://www.youtube.com/@Uncut_Chaos_with_Y</p>
 </section>
 
 <footer>
-    © 2026 Yashaswini U | Designed with purpose 🌿
+  
+    © 2026 Yashaswini U | Designed with purpose 🌿 | Partner with Vinod Kumar Khadka 
 </footer>
 
 </body>
