@@ -109,12 +109,11 @@ footer {
 <section class="about">
     <h2>About</h2>
     <p>
-        I am an MBA student, lecturer, and creative entrepreneur passionate about building 
-        meaningful ideas that create impact. My journey combines business knowledge with 
+        I am an MBA student, lecturer, and creative entrepreneur passionate about building meaningful ideas that create impact. My journey combines business knowledge with 
         creativity and purpose.
     </p>
     <p>
-        My interests include sustainability, logistics, food waste upcycling, and public speaking. 
+        My interests include sustainability, logistics, and public speaking. 
         Beyond work, I enjoy traveling, coffee outings, and envision inspiring people 
         to think differently and act consciously.
     </p>
